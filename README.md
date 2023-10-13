@@ -1,8 +1,9 @@
-<div align=center>
-	
-	![dino.gif](./dino.gif)
- 
+<div align="center">
+  
+![dino.gif](./dino.gif)
+
 </div>
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Frameworks & Languages ✨</p>
