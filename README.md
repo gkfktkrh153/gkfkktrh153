@@ -1,5 +1,7 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=2AA5DC&height=200&section=header&text=Seungyong%20Github!&fontSize=90" />	
+	
+	![dino.gif](./dino.gif)
+ 
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
